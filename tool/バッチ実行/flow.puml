@@ -1,0 +1,13 @@
+@startdot
+
+digraph flow {
+  node [shape=box]
+  A -> B1_1;
+  B1_1 -> B1_2;
+  B2 [label="B2\n(10分散)"];
+  A -> B2;
+  B1_2 -> C;
+  B2 -> C;
+}
+
+@enddot
