@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="result">
+    <SrcDataSource>/tmp/result.csv</SrcDataSource>
+    <GeometryType>wkbLineString</GeometryType>
+    <LayerSRS>WGS84</LayerSRS>
+    <GeometryField encoding="WKB" field="geom"/>
+  </OGRVRTLayer>
+</OGRVRTDataSource>
