@@ -4,6 +4,8 @@ Today I Learned
 * geometry
   * [CSVをGeoJSONに変換](geometry/CSVをGeoJSONに変換.md)
 * lang
+  * C++
+    * [インスタンスのreturn](lang/c++/インスタンスのreturn.md)
   * sh
     * [ログを出力したい](lang/sh/ログを出力したい.md)
 * os
