@@ -6,6 +6,7 @@ Today I Learned
 * lang
   * C++
     * [インスタンスのreturn](lang/c++/インスタンスのreturn.md)
+    * [配列やvectorをfor_eachするときにインデックス値がほしい](lang/c++/配列やvectorをfor_each.md)
   * sh
     * [ログを出力したい](lang/sh/ログを出力したい.md)
 * os
@@ -14,6 +15,8 @@ Today I Learned
 * testing
   * [パラメタライズド・テスト](testing/parameterized_test.md)
 * tool
+  * git
+    * [未push分の一部だけpushしたい](tool/git/未push分の一部だけpushしたい.md)
   * Jenkins
     * [再起動したい](tool/jenkins/再起動したい.md)
   * VS Code
