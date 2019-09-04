@@ -22,5 +22,6 @@ Today I Learned
   * VS Code
     * [C++インクルードガード](tool/vscode/C++インクルードガード.md)
     * [リモート開発](tool/vscode/リモート開発.md)
+    * [Markdown中のPlantUML](tools/vscode/Markdown中のPlantUML.md)
   * バッチ実行
     * [バッチ実行システムの比較](tool/バッチ実行/バッチ実行システムの比較.md)
